@@ -129,3 +129,10 @@ mandate remote options for >10km commuters
 New Manager + Recent Promotion Risk 
   
 **Recommended HR Intervention :** Implement 90-day manager mentorship tracking for newly promoted staff.       
+
+#### 💰 Business ROI & Financial Impact
+
+According to HR industry research, replacing an employee costs **1.5x to 2x** their annual salary in recruitment, onboarding, and lost productivity:
+
+* **Top Performer Retention:** Retaining 50 of the **134 Underpaid Top Performers** saves the company an estimated **$1.2M - $1.8M** annually in operational and hiring expenses.
+* **Level 1 Pipeline Stabilization:** Reducing Job Level 1 attrition from ~30% down to 15% significantly cuts early-career hiring overhead.
