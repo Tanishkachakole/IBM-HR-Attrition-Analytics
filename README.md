@@ -96,7 +96,8 @@ A comprehensive 4-page diagnostic dashboard designed to uncover root causes of w
 When reviewing this dashboard, HR Leadership must prioritize the following core execution pillars:
 
  ### 🔴 Priority 1: 
-**High-Performer Pay:** 134 Underpaid Top Performers (30%)
+**High-Performer Pay:** 134 Underpaid Top Performers (30%) 
+
 **Recommended HR Intervention:** 
 Execute immediate salary adjustments for job  Level 1,2 loss and underpaid rating-4 performers           
                                                                                                               
