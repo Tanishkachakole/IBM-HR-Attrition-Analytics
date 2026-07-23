@@ -10,7 +10,8 @@ SQL Transformations: HR_analysis.sql (Database queries for aggregations, pay gap
 Data Visualization & Analytics: HR_Attrition_Dashboard.pbix (Power BI interactive model with custom DAX, unpivoted satisfaction metrics, and conditional columns)
 
 ## 📑 Deep-Dive Page-by-Page Analysis & Visual Breakdown
-## PAGE 1: OVERVIEW & KEY DRIVERS (Overview.hr.png)
+## PAGE 1: OVERVIEW & KEY DRIVERS 
+![Overview ](Overview.hr.png)
 ### 📊 Visual Breakdown & Insights:
 
 KPI Metrics (Headcount, Attrition Rate, Avg Salary): Provides baseline operational context for workforce loss.
@@ -23,13 +24,14 @@ Compensation vs. Experience: Salary bands show healthy upward growth as total ex
 
 Overtime & Demographics: Overtime workers and younger age cohorts consistently display higher-than-average attrition probabilities.
 
-### 💡HR Action:
+#### 💡HR Action:
 #### Entry-Level Intervention:
 Focus initial retention efforts on onboarding and salary baseline reviews for 0-2 year experienced employees and Sales Representatives.
 
 #### Overtime Capping: Introduce overtime limit alerts for younger employee segments to curb burnout.
 
-## PAGE 2: PERFORMANCE & CAREER DYNAMICS (Performance.hr.png)
+## PAGE 2: PERFORMANCE & CAREER DYNAMICS 
+![Perfoemance](Performance.hr.png)
 ### 📊 Visual Breakdown & Insights:
 Employee Sentiment & Workplace Mitigation: Low employee sentiment (combination of Job Satisfaction & Relationship Satisfaction) directly inflates attrition. However, data proves that a high-quality workplace environment acts as a buffer—mitigating turnover even when personal sentiment drops.
 
@@ -46,7 +48,8 @@ Post-Promotion Onboarding: Implement structured transition programs when promote
 
 Systemic Work-Life Balance Review: Address organization-wide work hours and flexible policies, as all roles suffer from sub-3.0 balance scores.
 
-## PAGE 3: COMPENSATION & PAY EQUITY (Compensation.hr.png)
+## PAGE 3: COMPENSATION & PAY EQUITY 
+![Compensation](Compensation.hr.png)
 #### 📊 Visual Breakdown & Insights:
 Salary Band Distribution: The majority of the workforce sits in the Mid Pay Band. However, the Low Salary Band experiences nearly double the attrition rate compared to Mid/High bands, establishing low pay as a major exit trigger.
 
@@ -59,12 +62,13 @@ Tenured vs. Lateral Hire Pay Parity: Tenured employees enjoy competitive, market
 
 Salary Hike vs. Attrition: Performance ratings trigger higher percentage salary hikes, but salary hikes alone fail to reduce attrition if the base salary remains below market parity.
 
-# 💡 HR Action:
+#### 💡 HR Action:
 Immediate Salary Correction: Conduct an urgent pay equity adjustment for the identified 134 underpaid top performers to prevent further high-value turnover.
 
 Job Level 1 Base Increase: Restructure entry-level baseline salaries to close the 30% exit gap.
 
-## PAGE 4: DIAGNOSTIC REASONS & COMPOUNDING RISK (Reason.hr.png)
+## PAGE 4: DIAGNOSTIC REASONS & COMPOUNDING RISK 
+![Reasons](Reason.hr.png)
 📊 Visual Breakdown & Insights:
 Commute Distance Threshold (>10 km): Attrition surges significantly once employee commute distance crosses 10 km.
 
