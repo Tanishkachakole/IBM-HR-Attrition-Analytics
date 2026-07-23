@@ -14,15 +14,15 @@ A comprehensive 4-page diagnostic dashboard designed to uncover root causes of w
 ![Overview ](Overview.hr.png)
 ### 📊 Visual Breakdown & Insights:
 
-- KPI Metrics (Headcount, Attrition Rate, Avg Salary): Provides baseline operational context for workforce loss.
+- **KPI Metrics (Headcount, Attrition Rate, Avg Salary):**  Provides baseline operational context for workforce loss.
 
-- Top Department & Role Vulnerability: Sales Department exhibits the highest turnover rate. Specifically, the Sales Representative role suffers from the highest attrition rate alongside the lowest annual income across all roles.
+- **Top Department & Role Vulnerability:**  Sales Department exhibits the highest turnover rate. Specifically, the Sales Representative role suffers from the highest attrition rate alongside the lowest annual income across all roles.
 
-- Tenure Friction Point (0-2 Years Experience): Employees with 0 to 2 years of experience show a steep attrition rate of ~29.82%, which is significantly higher than any other tenure bucket.
+- **Tenure Friction Point (0-2 Years Experience):** Employees with 0 to 2 years of experience show a steep attrition rate of ~29.82%, which is significantly higher than any other tenure bucket.
 
-- Compensation vs. Experience: Salary bands show healthy upward growth as total experience increases, proving that salary progression stabilizes in mid-to-senior tiers.
+- **Compensation vs. Experience:** Salary bands show healthy upward growth as total experience increases, proving that salary progression stabilizes in mid-to-senior tiers.
 
-- Overtime & Demographics: Overtime workers and younger age cohorts consistently display higher-than-average attrition probabilities.
+- **Overtime & Demographics:**  Overtime workers and younger age cohorts consistently display higher-than-average attrition probabilities.
 
 #### 💡HR Action:
 -  **Entry-Level Intervention:** Focus initial retention efforts on onboarding and salary baseline reviews for 0-2 year experienced employees and Sales Representatives.
@@ -48,7 +48,7 @@ A comprehensive 4-page diagnostic dashboard designed to uncover root causes of w
 
 - Systemic Work-Life Balance Review: Address organization-wide work hours and flexible policies, as all roles suffer from sub-3.0 balance scores.
 
-## PAGE 3: COMPENSATION & PAY EQUITY 
+### PAGE 3: COMPENSATION & PAY EQUITY 
 ![Compensation](Compensation.hr.png)
 #### 📊 Visual Breakdown & Insights:
 
@@ -68,7 +68,7 @@ A comprehensive 4-page diagnostic dashboard designed to uncover root causes of w
 
 - **Job Level 1 Base Increase:** Restructure entry-level baseline salaries to close the 30% exit gap.
 
-## PAGE 4: DIAGNOSTIC REASONS & COMPOUNDING RISK 
+### PAGE 4: DIAGNOSTIC REASONS & COMPOUNDING RISK 
 ![Reasons](Reason.hr.png)
 #### 📊 Visual Breakdown & Insights:
 
@@ -96,25 +96,23 @@ A comprehensive 4-page diagnostic dashboard designed to uncover root causes of w
 When reviewing this dashboard, HR Leadership must prioritize the following core execution pillars:
 
  ### 🔴 Priority 1: 
- #### High-Performer Pay : 
- 134 Underpaid Top Performers (30%)
-#### Recommended HR Intervention :
+**High-Performer Pay:** 134 Underpaid Top Performers (30%)
+**Recommended HR Intervention:** 
 Execute immediate salary adjustments for job  Level 1,2 loss and underpaid rating-4 performers           
                                                                                                               
 ### 🔴 Priority 2: 
-#### Early-Career Hold  :
+**Early-Career Hold:** 
 0-2 Years Experience (29.82% Exit) &   Restructure Job Level 1 compensation and Sales Rep Low Pay                  
-#### Recommended HR Intervention :
+**Recommended HR Intervention :** 
 create clear 12-month promotion paths.   
                                                                                                                    
 ### 🔴 Priority 3: 
-#### Burnout Capping : 
+**Burnout Capping :** 
 Work-Life Balance <3.0 & Travel/Cap overtime, restrict travel cycles, and Overtime Multiplier  (46%-75% Risk)
-#### Recommended HR Intervention : 
+**Recommended HR Intervention :** 
 mandate remote options for >10km commuters
                                                                                                                   
 ### 🔴 Priority 4:
-#### Transition Anchor : 
+**Transition Anchor :** 
 New Manager + Recent Promotion Risk  
-####  Recommended HR Intervention : 
-Implement 90-day manager mentorship tracking for newly promoted staff.       
+**Recommended HR Intervention :** Implement 90-day manager mentorship tracking for newly promoted staff.       
