@@ -25,10 +25,9 @@ A comprehensive 4-page diagnostic dashboard designed to uncover root causes of w
 - Overtime & Demographics: Overtime workers and younger age cohorts consistently display higher-than-average attrition probabilities.
 
 #### 💡HR Action:
-- #### Entry-Level Intervention:
-Focus initial retention efforts on onboarding and salary baseline reviews for 0-2 year experienced employees and Sales Representatives.
+-  **Entry-Level Intervention:** Focus initial retention efforts on onboarding and salary baseline reviews for 0-2 year experienced employees and Sales Representatives.
 
-- #### Overtime Capping: Introduce overtime limit alerts for younger employee segments to curb burnout.
+- **Overtime Capping:**  Introduce overtime limit alerts for younger employee segments to curb burnout.
 
 ### PAGE 2: PERFORMANCE & CAREER DYNAMICS 
 ![Perfoemance](Performance.hr.png)
