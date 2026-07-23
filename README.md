@@ -81,18 +81,12 @@ A comprehensive 4-page diagnostic dashboard designed to uncover root causes of w
 
 - **Career Switching Profiles:**  Frequent switchers (5+ past companies) show a 21.75% attrition rate. Even stable switchers (1-2 past companies) show a notable ~17% rate.
 
-#### Compounding Risk Factors (The Attrition Multipliers):
-
-- Work-Life Balance = 1: Directly elevates turnover across all segments. When combined with Frequent Switchers, attrition rockets to 41%.
-
-- Work-Life Balance = 1 + Low Job Involvement (1): Causes attrition to skyrocket to 75% (and up to 69% for general job switchers).
-
-- Work-Life Balance = 1 + Frequent Business Travel: Pushes attrition up to 46%.
 
 - **Satisfaction Hierarchy Impact:**  Unpivoted multi-metric analysis reveals that Environment Satisfaction has the strongest impact on reducing attrition, followed by Job Satisfaction, and lastly Relationship Satisfaction. However, if all three satisfaction metrics drop to 1, baseline attrition remains high at 22% - 25%.
 
-### ⚡ Multi-Factor Risk Interaction Matrix
-Diagnostic analysis se ye pata chalta hai ki single factor ke mukable compounding factors extreme turnover trigger karte hain:
+#### ⚡ Multi-Factor Risk Interaction Matrix
+Diagnostic analysis 
+Diagnostic analysis reveals that compare to  single factor compounding factors extreme turnover trigger :
 
 | Primary Factor | Secondary Trigger | Resulting Attrition Rate | Risk Severity |
 | :--- | :--- | :---: | :---: |
