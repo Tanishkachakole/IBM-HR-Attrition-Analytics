@@ -12,7 +12,7 @@ A comprehensive 4-page diagnostic dashboard designed to uncover root causes of w
 ## 📑 Deep-Dive Page-by-Page Analysis & Visual Breakdown
 ### PAGE 1: OVERVIEW & KEY DRIVERS 
 ![Overview ](Overview.hr.png)
-### 📊 Visual Breakdown & Insights:
+#### 📊 Visual Breakdown & Insights:
 
 - **KPI Metrics (Headcount, Attrition Rate, Avg Salary):**  Provides baseline operational context for workforce loss.
 
@@ -31,7 +31,7 @@ A comprehensive 4-page diagnostic dashboard designed to uncover root causes of w
 
 ### PAGE 2: PERFORMANCE & CAREER DYNAMICS 
 ![Perfoemance](Performance.hr.png)
-### 📊 Visual Breakdown & Insights:
+#### 📊 Visual Breakdown & Insights:
 
 - **Employee Sentiment & Workplace Mitigation:** Low employee sentiment (combination of Job Satisfaction & Relationship Satisfaction) directly inflates attrition. However, data proves that a high-quality workplace environment acts as a buffer—mitigating turnover even when personal sentiment drops.
 
@@ -102,17 +102,20 @@ Execute immediate salary adjustments for job  Level 1,2 loss and underpaid ratin
                                                                                                               
 ### 🔴 Priority 2: 
 **Early-Career Hold:** 
-0-2 Years Experience (29.82% Exit) &   Restructure Job Level 1 compensation and Sales Rep Low Pay                  
+0-2 Years Experience (29.82% Exit) &   Restructure Job Level 1 compensation and Sales Rep Low Pay
+                 
 **Recommended HR Intervention :** 
 create clear 12-month promotion paths.   
                                                                                                                    
 ### 🔴 Priority 3: 
 **Burnout Capping :** 
 Work-Life Balance <3.0 & Travel/Cap overtime, restrict travel cycles, and Overtime Multiplier  (46%-75% Risk)
+
 **Recommended HR Intervention :** 
 mandate remote options for >10km commuters
                                                                                                                   
 ### 🔴 Priority 4:
 **Transition Anchor :** 
-New Manager + Recent Promotion Risk  
+New Manager + Recent Promotion Risk 
+  
 **Recommended HR Intervention :** Implement 90-day manager mentorship tracking for newly promoted staff.       
