@@ -16,9 +16,9 @@ A comprehensive 4-page diagnostic dashboard designed to uncover root causes of w
 
 - **KPI Metrics (Headcount, Attrition Rate, Avg Salary):**  
 
-Overall Company Attrition Rate: **16.12%** (Total Turnover)
+   Overall Company Attrition Rate: **16.12%** (Total Turnover)
  
-The Target: Industry benchmark standard is $<12\%$. The **4.12% gap** represents significant unnecessary operational loss and hiring costs that this diagnostic project aims to eliminate.
+   The Target: Industry benchmark standard is $<12\%$. The **4.12% gap** represents significant unnecessary operational loss and hiring costs that this diagnostic project aims to eliminate.
 
 
 - **Top Department & Role Vulnerability:**  Sales Department exhibits the highest turnover rate. Specifically, the Sales Representative role suffers from the highest attrition rate alongside the lowest annual income across all roles.
