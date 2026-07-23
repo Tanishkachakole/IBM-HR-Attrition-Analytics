@@ -1,4 +1,4 @@
-IBM HR Attrition Diagnostic & Intelligence Dashboard
+#IBM HR Attrition Diagnostic & Intelligence Dashboard
 Data-Driven Strategic HR Analytics using SQL, Python (Pandas), and Power BI
 A comprehensive 4-page diagnostic dashboard designed to uncover root causes of workforce turnover, analyze pay equity gaps, and provide actionable retention frameworks for HR leadership.
 
