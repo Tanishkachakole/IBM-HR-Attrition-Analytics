@@ -91,6 +91,18 @@ A comprehensive 4-page diagnostic dashboard designed to uncover root causes of w
 
 - **Satisfaction Hierarchy Impact:**  Unpivoted multi-metric analysis reveals that Environment Satisfaction has the strongest impact on reducing attrition, followed by Job Satisfaction, and lastly Relationship Satisfaction. However, if all three satisfaction metrics drop to 1, baseline attrition remains high at 22% - 25%.
 
+### ⚡ Multi-Factor Risk Interaction Matrix
+Diagnostic analysis se ye pata chalta hai ki single factor ke mukable compounding factors extreme turnover trigger karte hain:
+
+| Primary Factor | Secondary Trigger | Resulting Attrition Rate | Risk Severity |
+| :--- | :--- | :---: | :---: |
+| **Low Work-Life Balance (1)** | Frequent Job Switcher | **41.00%** | 🟠 High Risk |
+| **Low Work-Life Balance (1)** | Frequent Business Travel | **46.00%** | 🔴 Critical Risk |
+| **Low Work-Life Balance (1)** | Low Job Involvement (1) + Switcher | **69.00%** | 🚨 Extreme Risk |
+| **Low Work-Life Balance (1)** | Low Job Involvement (1) (General) | **75.00%** | 🚨 Peak Exposure |
+
+
+
 #### 💡 HR Action:
 
 - Focus on High-Risk Combinations: HR filters must flag employees experiencing both low Work-Life Balance and low Job Involvement for immediate HR intervention.
