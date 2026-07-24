@@ -88,6 +88,8 @@ A comprehensive 4-page diagnostic dashboard designed to uncover root causes of w
 #### ⚡ Multi-Factor Risk Interaction Matrix
 The diagnostic analysis reveals that single factors rarely cause exits alone; rather, **compounding factors trigger extreme turnover rates**:
 
+![](Compounding_Factor_Trigger1.png)
+
 | Primary Factor | Secondary Trigger | Resulting Attrition Rate | Risk Severity |
 | :--- | :--- | :---: | :---: |
 | **Low Work-Life Balance (1)** | Frequent Job Switcher | **41.00%** | 🟠 High Risk |
