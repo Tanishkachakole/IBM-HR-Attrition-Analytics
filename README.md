@@ -115,33 +115,39 @@ According to HR industry research, replacing an employee costs **1.5x to 2x** th
 ### 🚨 Mandatory HR Action Plan & Priority Checklist
 When reviewing this dashboard, HR Leadership must prioritize the following core execution pillars:
 
-### 🎯 Key Recommendations for HR Team
-Based on the analysis, HR should focus on the following priorities to reduce employee attrition:
-1. Improve Work-Life Balance
+-  Improve Work-Life Balance
 Employees with poor Work-Life Balance consistently showed the highest attrition.
 Introduce flexible work policies, workload monitoring, and wellness initiatives.
-2. Increase Job Involvement
+
+- Increase Job Involvement
 Low Job Involvement was the strongest predictor of employees leaving.
 Give employees meaningful responsibilities, career ownership, and recognition.
-3. Retain Early-Career Employees
+
+- Retain Early-Career Employees
 Employees with 0–2 years of experience had the highest attrition rate.
 Strengthen onboarding, mentorship programs, and career development.
-4. Review Compensation Strategy
+
+- Review Compensation Strategy
 Low salary bands and underpaid high performers showed significantly higher attrition.
 Benchmark salaries regularly and reward top performers fairly.
-5. Support New Managers
+
+- Support New Managers
 Teams under newly promoted managers experienced higher employee exits.
 Leadership training and coaching should be provided before and after promotions.
-6. Reduce Employee Burnout
+
+- Reduce Employee Burnout
 Employees who travel frequently or commute long distances combined with poor work-life balance were more likely to resign.
 Consider hybrid work, travel optimization, or location-based flexibility.
-7. Strengthen Employee Satisfaction
+
+- Strengthen Employee Satisfaction
 Environment Satisfaction, Job Satisfaction, and Relationship Satisfaction all contribute to retention.
 Regular employee feedback surveys should be used to identify issues early.
-8. Monitor Frequent Job Switchers
+
+- Monitor Frequent Job Switchers
 Employees with a history of frequent company switching showed higher attrition risk.
 Early engagement and career planning can improve retention.
-#### 📌 Business Conclusion
+
+### Business Conclusion :-
 
 This dashboard transforms raw HR data into actionable business insights by identifying the key drivers behind employee attrition.
 The analysis shows that employee resignations are not caused by a single factor. Instead, attrition is influenced by the combination of low compensation, poor work-life balance, low job involvement, limited career growth, and weak employee engagement.
