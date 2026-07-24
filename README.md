@@ -153,3 +153,6 @@ This dashboard transforms raw HR data into actionable business insights by ident
 The analysis shows that employee resignations are not caused by a single factor. Instead, attrition is influenced by the combination of low compensation, poor work-life balance, low job involvement, limited career growth, and weak employee engagement.
 By addressing these factors proactively, organizations can improve employee retention, reduce hiring costs, and build a more stable workforce. 
 
+
+If you've made it this far, I hope you enjoyed my work. Thank you for taking the time to explore this project. I truly appreciate your valuable time.
+**Thank you 💗**
