@@ -92,10 +92,10 @@ The diagnostic analysis reveals that single factors rarely cause exits alone; ra
 
 | Primary Factor | Secondary Trigger | Resulting Attrition Rate | Risk Severity |
 | :--- | :--- | :---: | :---: |
-| **Low Work-Life Balance (1)** | Frequent Job Switcher | **41.00%** | 🟠 High Risk |
-| **Low Work-Life Balance (1)** | Frequent Business Travel | **46.00%** | 🔴 Critical Risk |
-| **Low Work-Life Balance (1)** | Low Job Involvement (1) + Switcher | **69.00%** | 🚨 Extreme Risk |
-| **Low Work-Life Balance (1)** | Low Job Involvement (1) (General) | **75.00%** | 🚨 Peak Exposure |
+| **Low Work-Life Balance (1)** | Frequent Job Switcher | **42.33%** | High Risk |
+| **Low Work-Life Balance (1)** | Frequent Business Travel | **46.00%** | Critical Risk |
+| **Low Work-Life Balance (1)** | Low Job Involvement (1) + Switcher | **69.00%** |  Extreme Risk |
+| **Low Work-Life Balance (1)** | Low Job Involvement (1) (General) | **75.00%** | Peak Exposure |
 
 
 #### 💡 HR Action:
