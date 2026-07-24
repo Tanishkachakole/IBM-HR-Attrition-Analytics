@@ -1,5 +1,5 @@
 # IBM HR Attrition Diagnostic & Intelligence Dashboard
-![](lbm_logo.png)
+![IBM](lbm_logo.png)
 Data-Driven Strategic HR Analytics using SQL, Python (Pandas), and Power BI
 A comprehensive 4-page diagnostic dashboard designed to uncover root causes of workforce turnover, analyze pay equity gaps, and provide actionable retention frameworks for HR leadership.
 
